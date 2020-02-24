@@ -87,17 +87,5 @@
   },
   "rulesDirectory": [
     "codelyzer"
-  ],
-  "quotemark": [
-    true,
-    "single"
-  ],
-  "semicolon": [
-    true,
-    "always"
-  ],
-  "max-line-length": [
-    true,
-    120
   ]
 }
